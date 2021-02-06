@@ -1,2 +1,1 @@
-# data-structures
-Basic data structures
+# Basic Data Structures
